@@ -1,0 +1,4 @@
+db.catalog.find  ( 
+       { year: {$gt:1983} } ,
+       { title:1 }
+    )
