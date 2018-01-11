@@ -1,0 +1,11 @@
+db.catalog.insert({
+                    "CD": {	
+                      title: "Still got the blues",
+                      artist: "Gary Moore",
+                      country: "UK",
+                      company: "Virgin records",
+                      price: 10.20,
+                      year: 1990,
+                      genre:["Blue", "Country"] 
+                    }
+                  })
