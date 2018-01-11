@@ -1,3 +1,3 @@
 # ADB2017Assignment3
-#Type your name here
-#Other info
+#Ta Hoang Hai Nam
+#USTH BI6-110
